@@ -1,0 +1,16 @@
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.dll.config
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.dll
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.pdb
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Model.dll
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Model.pdb
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.dll
+c:\users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.pdb
+C:\Users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mary7773\documents\visual studio 2013\Projects\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml

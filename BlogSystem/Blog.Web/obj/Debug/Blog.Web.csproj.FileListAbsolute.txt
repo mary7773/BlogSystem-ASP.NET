@@ -1,0 +1,16 @@
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\obj\Debug\Blog.Web.csprojResolveAssemblyReference.cache
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Blog.Web.dll.config
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Blog.Web.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Blog.Web.pdb
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\BlogSystem.Data.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\BlogSystem.Model.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\EntityFramework.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\BlogSystem.Data.pdb
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\BlogSystem.Model.pdb
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\EntityFramework.xml
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\obj\Debug\Blog.Web.dll
+C:\Users\mary7773\Documents\Visual Studio 2013\Projects\BlogSystem\Blog.Web\obj\Debug\Blog.Web.pdb

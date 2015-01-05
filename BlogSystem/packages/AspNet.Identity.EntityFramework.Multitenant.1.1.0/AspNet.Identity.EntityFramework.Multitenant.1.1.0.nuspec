@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AspNet.Identity.EntityFramework.Multitenant</id>
+    <version>1.1.0</version>
+    <title>AspNet.Identity.EntityFramework.Multitenant</title>
+    <authors>James Skimming</authors>
+    <owners>James Skimming</owners>
+    <licenseUrl>https://github.com/JSkimming/AspNet.Identity.EntityFramework.Multitenant/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/JSkimming/AspNet.Identity.EntityFramework.Multitenant</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds multi-tenant support for ASP.NET Identity using EntityFramework.
+
+The extensibility required to support multi-tenancy is not possible with the 1.0.0 release of Microsoft.AspNet.Identity.EntityFramework, but is available in the 2.0 release.</description>
+    <summary>Multi-tenant support for ASP.NET Identity using EntityFramework.</summary>
+    <tags>Identity Membership Entity Framework Multitenant Multi-tenant</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Identity.EntityFramework" version="2.0.0" />
+    </dependencies>
+  </metadata>
+</package>
